@@ -1,6 +1,6 @@
 # Infinite list of names
 
-<h3>Project development in Flutter for Android and IOS, which shows an infinite list of two names in English.</h3>
+<h4>Project development in Flutter for Android and IOS, which shows an infinite list of two names in English.</h4>
 
 <h2>Languagens development:</h2>
 Flutter
