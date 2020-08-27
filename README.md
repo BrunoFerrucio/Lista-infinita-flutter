@@ -6,6 +6,6 @@ Project development in Flutter for Android and IOS, which shows an infinite list
 Flutter
 
 <h2>To execute:</h2>
-Create a project in Flutter.
-Open the "pubspec.yaml" file and place it in the "english_words: ^3.1.0" dependecies.
-Write the code in "main.dart".
+<p>Create a project in Flutter.</p>
+<p>Open the "pubspec.yaml" file and place it in the "english_words: ^3.1.0" dependecies.</p>
+<p>Write the code in "main.dart".</p>
